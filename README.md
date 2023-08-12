@@ -11,6 +11,9 @@ The Palmoria Group is currently facing significant challenges related to gender 
 **<ins>Skills Demonstrated:</ins>**
 This project demonstrates several key skills in the field of HR analytics and data analysis:
 
+*Data Sourcing:*
+The data used for this analysis was sourced from The Palmoria Group's HR systems, which included information such as employee demographics, job roles, compensation details, performance evaluations, and promotions history. The data was collected for a specified time frame and covered all three regions of the company.
+
 *-Data Collection:* Gathering relevant HR data from the company's systems to gain insights into the extent of gender inequality issues.
 
 *-Data Transformation:* Converting raw data into a structured format suitable for analysis.
